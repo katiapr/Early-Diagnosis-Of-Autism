@@ -21,7 +21,7 @@ responses to their enviroment, will be sent to the expert for follow treatment -
 Please visit our wiki for furthur project info: 
 
 ### [Team Page](https://github.com/Tal-C/Identification-of-Autism/wiki/Team)
-### [Our Calendar] (https://teamup.com/ks6a6784e73f227028)
+### [Our Calendar](https://teamup.com/ks6a6784e73f227028)
 ### Project Documents
 - [Project Idea]
 - [Project Inception]
